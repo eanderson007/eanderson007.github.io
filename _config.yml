@@ -1,0 +1,33 @@
+title: log007
+description: >- # this means to ignore newlines until "baseurl:"
+  software dev and engineering log
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: https://eanderson007.github.io # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  eanderson007
+
+# Build settings
+theme: minima
+#remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
