@@ -5,6 +5,6 @@ menu: main
 permalink: /blog/
 ---
 
-A collection of longer articles, opinion pieces and tutorials.
+A collection of longer articles, notes and tutorials.
 
 
