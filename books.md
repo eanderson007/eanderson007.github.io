@@ -9,35 +9,35 @@ permalink: /books-readinglist/
 
 ## Computer Science specific
 
-| Title    | Author(s)  |  Topic  | Library? | Read? | Date |
-| -------- | ------- | ------- | ------- | ------- | ------- | 
-| Hands-On Generative AI with Transformers and Diffusion Models | Sanseviero, Cuenca, Passos | GenAI |  | | 2025 |
-| Deep Learning for Coders with fastai and PyTorch | Howard and Gugger | AI | &#x2611; | &#x2611; | 2023 |
+| Title    | Author(s)  |  Topic  | Library? | Read? | Date          |
+| -------- | ------- | ------- | ------- | ------- |---------------| 
+| Hands-On Generative AI with Transformers and Diffusion Models | Sanseviero, Cuenca, Passos | GenAI |  |&#x2611; | February 2025 |
+| Deep Learning for Coders with fastai and PyTorch | Howard and Gugger | AI | &#x2611; | &#x2611; | 2023          |
 | Computer Organization and Design, RISC-V ed. | Patterson, Hennessy | Computer |  &#x2611; | |
-| Introduction to Algoritgms 3rd ed. | Sedgewick | Algorithms | &#x2611; | &#x2611;|2023/25|
-| Art of Computer Programming vol I | Knuth | Algorithms | &#x2611; | &#x2611; | 2025 |
+| Introduction to Algoritgms 3rd ed. | Sedgewick | Algorithms | &#x2611; | &#x2611;| 2023/25       |
+| Art of Computer Programming vol I | Knuth | Algorithms | &#x2611; | &#x2611; | 2025          |
 | Art of Computer Programming vol II | Knuth | Algorithms | &#x2611; | |
 | Art of Computer Programming vol II | Knuth | Algorithms | &#x2611; | |
 | Art of Computer Programming vol IVa | Knuth | Algorithms | &#x2611; | |
 | Software Architecture in Practice 4th ed. | Bass, Clements, Kazman | Architecture | &#x2611; | |
-| Clean Architecture | Martin |  Architecture | &#x2611; |  &#x2611; | 2021/22/23 |
-| The Mythical Man-Month | Brooks Jr | Theory | &#x2611; | &#x2611; | 2025 |
-| Programming Pearls | Bentley | Cmp Sci |  &#x2611; | | 2022 |
+| Clean Architecture | Martin |  Architecture | &#x2611; |  &#x2611; | 2021/22/23    |
+| The Mythical Man-Month | Brooks Jr | Theory | &#x2611; | &#x2611; | 2025          |
+| Programming Pearls | Bentley | Cmp Sci |  &#x2611; | | 2022          |
 | Designing Data-Intensive Applications | Klepper | Cmp Sci | &#x2611; | |
-| Refactoring | Fowler, Beck | Cmp Sci | &#x2611; | &#x2611; | 2022 |
-| Code Complete 2nd ed. | McConnell | Cmp Sci |  &#x2611; |  &#x2611; | 2022/24 |
-| Clean Code | Martin | Cmp Sci |  &#x2611; |  &#x2611; | 2021/2023 |
+| Refactoring | Fowler, Beck | Cmp Sci | &#x2611; | &#x2611; | 2022          |
+| Code Complete 2nd ed. | McConnell | Cmp Sci |  &#x2611; |  &#x2611; | 2022/24       |
+| Clean Code | Martin | Cmp Sci |  &#x2611; |  &#x2611; | 2021/2023     |
 | Agile | Martin | Cmp Sci |  &#x2611; |  &#x2611; |
-| The Pragmatic Programmer | Thomas, Hunt | Cmp Sci |  &#x2611; |  &#x2611; | 2021 |
-| CODE | Petzold | Cmp Sci |  &#x2611; |  &#x2611; | 2021/2024 |
-| The Annotated Turing | Petzold | Cmp Sci |  &#x2611; |  &#x2611; | 2024/25 |
+| The Pragmatic Programmer | Thomas, Hunt | Cmp Sci |  &#x2611; |  &#x2611; | 2021          |
+| CODE | Petzold | Cmp Sci |  &#x2611; |  &#x2611; | 2021/2024     |
+| The Annotated Turing | Petzold | Cmp Sci |  &#x2611; |  &#x2611; | 2024/25       |
 | Practices of the Python Pro | Hillard | Cmp Sci| &#x2611; |  &#x2611; | 
 | Node.js, MongoDB and AngularJS Web Development | Dayley | Cmp Sci |  &#x2611; |  &#x2611;|
-| Head First C | Griffiths | Cmp Sci |  &#x2611; |  &#x2611; | 2024 |
-| Head First Go | | Cmp Sci |  &#x2611; |  &#x2611; | 2023|
-| Head First Python | | Cmp Sci |  &#x2611; |  &#x2611; | 2020|
-| Head First Design Patterns | | Cmp Sci |  &#x2611; |  &#x2611; | 2020|
-| Head First Agile | | Cmp Sci |  &#x2611; |  &#x2611; | 2020|
+| Head First C | Griffiths | Cmp Sci |  &#x2611; |  &#x2611; | 2024          |
+| Head First Go | | Cmp Sci |  &#x2611; |  &#x2611; | 2023          |
+| Head First Python | | Cmp Sci |  &#x2611; |  &#x2611; | 2020          |
+| Head First Design Patterns | | Cmp Sci |  &#x2611; |  &#x2611; | 2020          |
+| Head First Agile | | Cmp Sci |  &#x2611; |  &#x2611; | 2020          |
 
 ## Technical - Electrical, Quantum + Math
 

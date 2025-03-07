@@ -12,7 +12,7 @@ categories: Windows Wix3 Notes Setup
 3. Install Python for x64 bit, or the release specific version of Python
 https://www.python.org/downloads/release/python-383/
 4. (optional) Install PyCharm IDE community edition https://www.jetbrains.com/pycharm/download/#section=windows or another IDE
-5. Install Git (can be downloaded and installed when cloning a remote repo)
+5. Install Git 
 6. Install Microsoft Visual C++ Build Tools: : Download Visual Studio Tools - Install Free for Windows, Mac, Linux
 7. Install Wix toolset version 3.11.x https://wixtoolset.org/releases/
 8. Add Wix tools to System path: C:\Program Files (x86)\WiX Toolset v3.11\bin
