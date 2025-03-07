@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes: playing with generative AI + Diffusion models"
 date:   2025-03-06 08:49:21 -0800
-categories: AI 
+categories: AI Notes
 ---
 
 The notes in this post refer to code in this [gitHub repo](https://github.com/eanderson007/genAI).
