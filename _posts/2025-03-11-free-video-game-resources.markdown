@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows Workstation Setup for Wix3"
+title:  "Free Game Dev Resources"
 date:   2025-03-11 08:49:21 -0800
 categories: Resources GameDev
 ---
